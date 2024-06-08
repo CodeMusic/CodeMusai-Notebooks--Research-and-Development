@@ -1,4 +1,4 @@
-<img src="https://github.com/CodeMusAI/CodeMusAI-Notebooks--Research-and-Development/codemusai.jpg" alt="CodeMusAI Logo">
+<img src="https://github.com/CodeMusic/CodeMusai-Notebooks--Research-and-Development/blob/main/codemusai.jpg?raw=true" alt="CodeMusAI Logo">
 
 Once upon a time, a spark of electricity, time, and then CodeMusAI.
 These Jupyter notebooks are a collection of the work that has been done on CodeMusAI.
